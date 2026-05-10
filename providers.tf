@@ -1,4 +1,4 @@
-terraform {
+gitterraform {
   required_providers {
     aws = {
       source  = "hashicorp/aws"
